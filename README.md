@@ -38,7 +38,7 @@ If you have access, we would strongly recommend using cosma to run these simulat
 ```
 module purge
 module load gnu_comp/10.2.0
-module load intel_mpi/2018 hdf5/1.10.6 fftw/3.3.9cosma8 gsl/2.4 metis/5.1.0 cosma
+module load intel_mpi/2018 hdf5/1.10.6 fftw/3.3.9 gsl/2.6 metis/5.1.0 cosma
 
 ```
 
